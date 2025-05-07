@@ -6,7 +6,7 @@ Multiple Disease Prediction System using Machine Learning and Streamlit
     Nakul Arora (ROLL NUMBER - 2401010025)
     Vansh Tanwar (ROLL NUMBER - 2401010102)
     Rahul Kumar (ROLL NUMBER - 2401010104)
-    Amandeep Singh (ROLL NUMBER - 2401010047)
+    Amandeep Singh (ROLL NUMBER - 2401010047)  
     
 📖 Short Project Description
 
