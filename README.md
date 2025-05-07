@@ -16,9 +16,12 @@ Multiple Disease Prediction System using Machine Learning and Streamlit
     Heart Disease
     Parkinson's Disease
     It uses pre-trained ML models and provides fast, user-friendly health predictions.
+    
 🎥 Video Explanation Click here to watch the project video
 
-    https://drive.google.com/file/d/1_ROmO5MW0sT8jNrwwmROxeNnwu2l5P41/view?usp=sharing
+▶️ **[Click here to watch the video explanation](https://drive.google.com/file/d/1_ROmO5MW0sT8jNrwwmROxeNnwu2l5P41/view?usp=sharing)**
+
+---
 
 🛠️ Technologies Used
 
